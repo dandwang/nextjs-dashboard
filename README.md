@@ -6,3 +6,21 @@ For more information, see the [course curriculum](https://nextjs.org/learn) on t
 
 
 实例地址：https://nextjs.org/learn/dashboard-app/getting-started
+
+
+Chapter 1
+
+mockapi.io  一个生成mock 数据的网站
+Prisma  一个自动生成数据类型的工具？
+
+
+chapter2
+一般将全局样式添加到root layout
+clsx 是一个用于条件性地组合多个类名的小型实用函数库，在前端开发中尤其在 React 应用中非常常见。它可以帮助你简洁且有效地处理动态类名的组合问题，避免了手动拼接字符串的繁琐和错误。
+
+
+3
+Cumulative Layout Shift(CLS)、
+网络的字体和图片可能造成 网页layout shift
+
+4
