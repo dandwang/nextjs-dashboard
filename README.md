@@ -5,7 +5,7 @@ This is the starter template for the Next.js App Router Course. It contains the 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
 
-实例地址：https://nextjs.org/learn/dashboard-app/getting-started
+实例地址(到11章)：https://nextjs.org/learn/dashboard-app/getting-started
 
 
 Chapter 1
@@ -24,3 +24,7 @@ Cumulative Layout Shift(CLS)、
 网络的字体和图片可能造成 网页layout shift
 
 4
+
+
+9
+实现流（streaming） 的两种方式：1 页面级使用 loading.tsx  2 for specific components with<Suspense>
