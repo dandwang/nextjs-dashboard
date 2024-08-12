@@ -5,7 +5,8 @@ This is the starter template for the Next.js App Router Course. It contains the 
 For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
 
 
-实例地址(到12章)：https://nextjs.org/learn/dashboard-app/getting-started
+14 15 需要好好看
+实例地址(到15章)：https://nextjs.org/learn/dashboard-app/getting-started
 
 
 Chapter 1
